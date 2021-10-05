@@ -107,6 +107,7 @@
         grid-column: 1 / 5;
         background-color: #333;
         color: white;
+        text-align: center;
     }
     .zero {
         grid-column: 1 / 3;

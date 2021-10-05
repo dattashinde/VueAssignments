@@ -54,6 +54,9 @@
         margin-top: 20px;
         padding-left: 2.25rem;
         padding-bottom: 3rem;
+        display: flex;
+        justify-content: center;
+        align-items: center;
     }
 
     .custom-control-label { 
@@ -100,6 +103,7 @@
         background-color: black;
         color: cornsilk;
         padding: 20px;
+        text-align: center;
     }
     .circle.small {
         border: 18px solid #666633;
