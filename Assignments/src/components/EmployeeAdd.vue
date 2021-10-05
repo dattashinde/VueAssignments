@@ -37,7 +37,18 @@ export default {
       return {
         name: '',
         job: '',
-        fullData: [],
+        fullData: [
+          {
+              Id: 0,
+              name: 'Datta', 
+              job: "Developer"
+          },
+           {
+              Id: 1,
+              name: 'John', 
+              job: "Software Developer"
+          },
+        ],
         btnMode: "Submit",
         Id: 1
       }
