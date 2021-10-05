@@ -5,6 +5,7 @@
     <EmployeeAdd />
     <Calculator />
     <DigitalClock />
+   
   </div>
 </template>
 

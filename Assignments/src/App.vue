@@ -14,6 +14,9 @@
         <li class="nav-item px-4 color-me">
           <a class="nav-link color-me" href="/Contact">CONTACT</a>
         </li>
+        <li class="nav-item px-4 color-me">
+          <a class="nav-link color-me" href="/Weather">WEATHER</a>
+        </li>
       </ul>
     </div>
   </nav>
